@@ -1,0 +1,7 @@
+docker-compose.yml
+        ↓
+Starts:
+  user-service container
+  payment-service container
+  mysql container
+

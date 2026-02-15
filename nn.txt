@@ -1,7 +1,7 @@
 docker-compose.yml
         ↓
 Starts:
-  veeru-service container
+  user-nani container
   payment-service container
   mysql container
 
